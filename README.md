@@ -13,9 +13,6 @@
   </a>
 </div>
 
-<div align='center'>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&card_width=600)](https://git.io/streak-stats)
-</div>
 
 <p align="left">
 <!-- Add your social media links here -->
@@ -35,3 +32,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
+<!-- Stats-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&card_width=600)](https://git.io/streak-stats)
