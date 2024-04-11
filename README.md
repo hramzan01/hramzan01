@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haaris</h1>
-<h3 align="center">A data engineer passionate about green energy and big data</h3>
+<h4 align="center">A data engineer passionate about green energy and big data</h4>
 
 <div align='center' id="badges">
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
