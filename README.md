@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <a align='center' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+    <a align='center' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
 </div>
 
 <p align="left">
