@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haaris</h1>
 <h3 align="center">A data engineer passionate about green energy and big data</h3>
 
-<h3 align="center">Connect with me:</h3>
 <div align='center' id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
