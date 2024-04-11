@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Haaris</h1>
-<h4 align="center">A data engineer passionate about green energy and big data</h4>
+<h1 align="left">Hi 👋, I'm Haaris</h1>
+<h4 align="left">A data engineer passionate about green energy and big data</h4>
 
-<div align='center' id="badges">
+<div align='left' id="badges">
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,16 +13,16 @@
   </a>
 </div>
 
-<div align="center">
-    <a align='center' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
+<div align="left">
+    <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
 </div>
 
 <p align="left">
 <!-- Add your social media links here -->
 </p>
 
-<h4 align="center">Coding Languages and Tools:</h4>
-<p align="center"> 
+<h4 align="left">Coding Languages and Tools:</h4>
+<p align="left"> 
   <!-- Add your favorite programming languages, frameworks, and tools here -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
