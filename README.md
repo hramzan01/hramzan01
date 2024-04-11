@@ -2,7 +2,7 @@
 <h3 align="center">A data engineer passionate about green energy and big data</h3>
 
 <h3 align="center">Connect with me:</h3>
-<div id="badges">
+<div align='center' id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hramzan01&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 <p align="left">
