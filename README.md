@@ -2,17 +2,17 @@
 <h3 align="center">A data engineer passionate about green energy and big data</h3>
 
 <div align='center' id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="your-personal-website-URL">
+    <img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-medium-account-URL">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
+
 
 <p align="left">
 <!-- Add your social media links here -->
