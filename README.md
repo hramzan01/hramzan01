@@ -13,6 +13,7 @@
   </a>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hramzan01)](https://git.io/streak-stats)
 
 <p align="left">
 <!-- Add your social media links here -->
