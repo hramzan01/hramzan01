@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haaris</h1>
+<h1 align="center">Haaris Ramzan</h1>
 <h3 align="center">A data engineer passionate about green energy and big data</h3>
 
 <div align='center' id="badges">
