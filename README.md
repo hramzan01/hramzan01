@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-personal-website-URL">
+  <a href="https://hramzan01.github.io/project_portfolio/">
     <img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website Badge"/>
   </a>
-  <a href="your-medium-account-URL">
+  <a href="https://medium.com/@hramzan">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
