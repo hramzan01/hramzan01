@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19712
-Fork on GitHub
-5920
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Haaris</h1>
 <h3 align="center">A data engineer passionate about green energy and big data</h3>
 
