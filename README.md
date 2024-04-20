@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Haaris</h1>
-<h4 align="left">A data engineer passionate about green energy and big data, see some of my projects below ⬇️</h4>
+<h4 align="left">An architect turned data professional. I build data driven applications using python. From the decarbonisation of modern housing and renewable energy⚡️ to monitoring the big data requirements of future cities from across the world! see some of my recent github projects here!</h4>
 
 <div align='left' id="badges">
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
