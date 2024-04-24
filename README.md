@@ -17,6 +17,8 @@
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
 </div>
 
+<iframe src="https://hackerrank-badge.herokuapp.com/hramzan01?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 <p align="left">
 <!-- Add your social media links here -->
 </p>
