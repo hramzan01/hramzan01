@@ -15,9 +15,9 @@
 
 <div align="left">
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
+  <img src="https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png" alt="Tech Logo" width="200"/>
 </div>
 
-<img src="https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png" alt="Tech Logo" width="200"/>
 
 <p align="left">
 <!-- Add your social media links here -->
