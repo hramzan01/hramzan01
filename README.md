@@ -15,8 +15,10 @@
 
 <div align="left">
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" /></a>
-  ![python-badge](https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png)
 </div>
+
+<img src="h[ttps://img.shields.io/badge/Personal%20Website-orange?style=for-the-badge&logo=website&logoColor=white](https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png)" alt="Personal Website Badge"/>
+
 
 <p align="left">
 <!-- Add your social media links here -->
