@@ -11,6 +11,9 @@
   <a href="https://medium.com/@hramzan">
     <img src="https://img.shields.io/badge/Medium-orange?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+    <a href="https://www.hackerrank.com/profile/h_ramzan01">
+    <img src="https://img.shields.io/badge/HackerRank-orange?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
 </div>
 
 <div align="left">
