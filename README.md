@@ -3,18 +3,22 @@
 
 <div align='left' id="badges">
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
-    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=orange" alt="LinkedIn Badge"/>
   </a>
   <a href="https://hramzan01.github.io/project_portfolio/">
-    <img src="https://img.shields.io/badge/Personal%20Website-orange?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/Personal%20Website-orange?style=for-the-badge&logo=website&logoColor=orange" alt="Personal Website Badge"/>
   </a>
   <a href="https://medium.com/@hramzan">
-    <img src="https://img.shields.io/badge/Medium-orange?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-orange?style=for-the-badge&logo=medium&logoColor=orange" alt="Medium Badge"/>
   </a>
-    <a href="https://www.hackerrank.com/profile/h_ramzan01">
-    <img src="https://img.shields.io/badge/HackerRank-orange?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  <a href="https://www.hackerrank.com/profile/h_ramzan01">
+    <img src="https://img.shields.io/badge/HackerRank-orange?style=for-the-badge&logo=hackerrank&logoColor=orange" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://github.com/hramzan01">
+    <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=orange" alt="GitHub Badge"/>
   </a>
 </div>
+
 
 <div align="left">
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=200" alt="GitHub Streak" /></a>
