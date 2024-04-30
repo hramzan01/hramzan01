@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Haaris</h1>
+<h1 align="left">Hi 👋, I'm Haaris, Welcome to my Github</h1>
 <p align="left">A former architect turned data professional. I build data driven applications using python. From the decarbonisation of modern housing and renewable energy⚡️ to monitoring the big data requirements of future cities from across the world! see some of my recent github projects here!</p>
 
 <div align='left' id="badges">
@@ -49,7 +49,7 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
 
