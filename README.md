@@ -49,8 +49,7 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Streamlit-logo-color-2020-rebrand.png" alt="streamlit" width="40" height="40"/> </a>
-
+<a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sql_logo.svg" alt="sql" width="40" height="40"/> </a>
 </p>
 
 
