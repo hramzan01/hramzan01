@@ -17,6 +17,8 @@
   <a href="https://github.com/hramzan01">
     <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Streamlit_logo_color.png" alt="streamlit" width="40" height="40"/> </a>
 </div>
 
 
