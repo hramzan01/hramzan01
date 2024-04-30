@@ -46,6 +46,15 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+</a>
+<a href="https://www.jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge"/>
+</a>
 </p>
 
 
