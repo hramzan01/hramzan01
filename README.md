@@ -20,7 +20,7 @@
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=200" alt="GitHub Streak" /></a>
   
   <img src="https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png" alt="Tech Logo" width="180"/>
-  <img src="https://pixabay.com/get/gd4ac5fcfe05151b9b456709f9dccc2de674ce70983dceb5fb3b80cafff489e214cd7b6d62b0badc75856e39a8a07ae7e92100a4914585e6d9d8d2439ca37c91c_1280.png" alt="Tech Logo" width="150"/>
+  <img src="https://pixabay.com/get/gd4ac5fcfe05151b9b456709f9dccc2de674ce70983dceb5fb3b80cafff489e214cd7b6d62b0badc75856e39a8a07ae7e92100a4914585e6d9d8d2439ca37c91c_1280.png" alt="Tech Logo" width="155"/>
   
 </div>
 
