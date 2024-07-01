@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Haaris, Welcome to my Github</h1>
-<p align="left">A former architect turned data professional. I build data driven applications using <strong>python</strong>. From the decarbonisation of modern housing and renewable energy⚡️ to monitoring the big data requirements of future cities from across the world! see some of my recent github projects here!</p>
+<p align="left">A data specialist with a backround in architecture and engineering. I build data driven applications using <strong>python</strong>. From the decarbonisation of modern housing and renewable energy⚡️ to monitoring the big data requirements of future cities from across the world! see some of my recent github projects here!</p>
 
 <div align='left' id="badges">
   <a href="https://www.linkedin.com/in/haaris-ramzan-cv/">
