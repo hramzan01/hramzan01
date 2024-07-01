@@ -24,7 +24,7 @@
     <a align='left' href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hramzan01&theme=dark&hide_border=true&card_width=200" alt="GitHub Streak" /></a>
   
 <a href="https://www.hackerrank.com/profile/h_ramzan01" target="_blank" rel="noreferrer">
-  <img src="https://cdn.pixabay.com/photo/2024/04/26/13/42/13-42-08-237_1280.png" alt="Tech Logo" width="175"/>
+  <img src="https://cdn.pixabay.com/photo/2024/04/26/13/42/python-8721893_1280.png" alt="Tech Logo" width="175"/>
 </a>
 <a href="https://www.hackerrank.com/profile/h_ramzan01" target="_blank" rel="noreferrer">
   <img src="https://cdn.pixabay.com/photo/2024/04/30/21/00/hacker-8731014_1280.png" alt="Tech Logo" width="150"/>
